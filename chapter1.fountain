@@ -14,6 +14,12 @@ This is a fan fiction script based on the Danganronpa franchise, by Spike Chunso
 ### Scene 1
 <c1_a1_s1_cat_intro.fountain>
 <c1_a1_s2_cat_awakens.fountain>
+<c1_a1_s3_cat_in_gym.fountain>
+[CHOICE SET 1: "Where Should We Check?"]
+  | "Let's check the shooting range"      => 
+  | "Let's check the botanical gardents"  => 
+  | "Let's check the infirmary"           =>
+  | "Let's check the storage room"        =>
 
 ## Act 2
 ### Scene 1
