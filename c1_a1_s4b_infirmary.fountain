@@ -1,0 +1,146 @@
+INT. INFIRMARY - DAY - DAY
+
+Catherine heads down the hallway to the infirmary. Inside the infirmary is a woman (DHARMA), checking the cabinets. Catherine KNOCK KNOCKs.
+
+DHARMA
+Hey.  C'mon in.  I'm Dharma.  And yes, I know what you're looking for. 
+
+Without another word, Dharma hands Catherine a little cup of water and a single-serving packet of aspirin. 
+
+CATHERINE
+Thanks. How'd you know I had...
+
+DHARMA
+A headache? Well, we all had one, and you were out the longest, so I figure your headache's gonna be the worst. 
+
+CATHERINE
+Oh. 
+
+DHARMA
+An ice pack really helped me - there's one in the fridge if you'd like one.
+
+CATHERINE
+Yeah, thanks.  
+
+Catherine gets the icepack. 
+
+DHARMA
+So I'm guessing you too are one of the Hope's Peak students? 
+
+CATHERINE
+Yeah.  Catherine Wilson.  My talent is bartending. 
+
+DHARMA
+Ah. You must be in high spirits then!
+
+CATHERINE
+...if I didn't have a headache before... that pun would have given me one... 
+
+DHARMA
+Sorry.  It's a defense mechanism. Punning. Wordplay. It's kinda related to what I do. 
+
+CATHERINE
+Which is? 
+
+DHARMA
+Ultimate blogger. Hashtag humblebrag. 
+
+> DHARMA CAMERON - ULTIMATE BLOGGER <
+
+CATHERINE
+So, got any idea what's going on around here? 
+
+DHARMA 
+Nope. My first theory was that we had a hell of a party, but some of the others - they don't seem like the kinds of people to over-indulge. Or even to indulge the appropriate amount.  Madeline - I'm sure you'll run into her if you haven't already - could use a dulge or two. 
+
+CATHERINE
+I see.  You know - now that you mention it, I wonder why I was out the longest?
+
+DHARMA
+Ooh - actually, I just thought of something.  Maybe you've got a higher tolerance for sedatives, so when whoever kidnapped us doped us, they gave you a higher dose?  
+
+CATHERINE
+So you do think we were drugged? 
+
+DHARMA
+Well, it's weird. We don't know how we all got here, all of us seem to be Hopes Peak Ultimates, we're locked in, and I don't suppose you've noticed the forcefield. 
+
+CATHERINE
+Yeah.  What is *up* with that?
+
+DHARMA
+I know my name's Dharma, but if I find out there's a polar bear and a smoke monster guarding a computer that has to be reset every hundred and eight minutes, I'm going to lose my shit. 
+
+CATHERINE
+Is that a reference? 
+
+DHARMA 
+Lost?
+
+CATHERINE
+No, just a little confused.  
+
+DHARMA
+No, it was a TV show.  Lost.  
+
+CATHERINE
+Ah.  Yeah, didn't catch that one. 
+
+DHARMA
+You didn't miss much. Bunch of characters isolated on an island with all sorts of weird stuff happening. It was a big hit in it's day, but I dunno, looking back now, it all seems kinda stupid. 
+
+CATHERINE
+Ah, I can see why you'd think that, then.  Yeah, this does seem a bit like The Prisoner. 
+
+DHARMA
+I'll watch your back for rovers if you watch my back for polar bears. 
+
+CATHERINE
+Done. Though of the two, I'd have to say that it's very unlikely we run into a smoke monster, or a rover, or a Dalek, or a bear, even in this situation. 
+
+DHARMA
+True. But that does bring up a good point - this isn't a normal kidnapping. 
+
+CATHERINE 
+No kidding.
+
+DHARMA 
+No, I mean... Kidnappers usually want high reward for low risk. Why drug us and give us a big, seemingly fully functional school?  Who would benefit from that.  If I were some sort of kidnapper mastermind, I'd keep us tied up. And the fact that we're not missing any fingers, toes, or ears suggests that we're not being held for ransom. 
+
+CATHERINE 
+You think this isn't a kidnapping?
+
+DHARMA
+No, it's definetly a kidnapping. But it's... not just a kidnapping.  It's something else.  Maybe something worse.  
+
+CATHERINE
+Worse than a kidnapping? 
+
+DHARMA
+Ugh.  Sorry, didn't meant to get all maudlin there. Puns aside, I think we really do need to keep our spirits up.  Look what we have going for us, rather than what we have going against us.  
+
+CATHERINE
+I suppose so. 
+
+DHARMA 
+Tell you what, I'm just about done here, if you haven't met everyone yet, I'm sure they're still around.  I'm going to head back to the gym.  Something tells me that Antonio guy is going to need a first aid kit sooner, rather than later. 
+
+CATHERINE 
+Alright.  See you later. 
+
+Cat leaves the infermary and heads off: 
+
+<<Decision Tree>> 
+* "I'll check the botanical gardens" (if unselected)
+* "I'll check the shooting range" (if unselected)
+* "I'll check the storage room" (if unselected)
+* All areas have been checked (if all selected)
+
+--- NEXT ---
+
+[CHOICE SET 1: "Where Should We Check?"]
+  | "I'll check the botanical gardents"  => 
+  | "I'll check the shooting range"      =>  c1_a1_s4a_shooting_range.fountain
+  | "I'll check the storage room"        =>
+  | All areas have been checked          =>
+

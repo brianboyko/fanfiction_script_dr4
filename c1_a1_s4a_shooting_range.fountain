@@ -43,7 +43,7 @@ I wouldn't say that.
 MADDIE 
 Thanks, but it's true. You know the talent that got me to Hope's Peak? Ultimate E-sports player. 
 
->> Title: MADELINE ORR - ULTIMATE E-SPORTS CHAMPION << 
+> MADELINE ORR - ULTIMATE E-SPORTS CHAMPION <
 
 MADDIE 
 Which, would be a completely useless skillset even if we *had* Internet access of some sort. It's not like my MOBA abilities will be of any use here.
@@ -151,7 +151,7 @@ Cat leaves the shooting range and heads off:
 --- NEXT ---
 
 [CHOICE SET 1: "Where Should We Check?"]
-  | "I'll check the botanical gardents"  => 
-  | "I'll check the infirmary"           =>
+  | "I'll check the botanical gardens"   => 
+  | "I'll check the infirmary"           => c1_a1_s4a_shooting_range.fountain
   | "I'll check the storage room"        =>
-  | All areas have been checked          =>
+  | "I guess I'll head back to the Gym"  =>
