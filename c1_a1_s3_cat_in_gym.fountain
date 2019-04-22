@@ -75,7 +75,7 @@ Ready.
 ANTONIO
 Now!
 
-Niki presses the button in her hand, and the basketball hoops start moving with a jerk.  Antonio, falls off and onto one of the gym pads with a loud BANG. Niki rushes over. 
+Niki presses the button in her hand, and the basketball hoops start moving with a HUM and a METAL SQUEAL.  Antonio, falls off and onto one of the gym pads with a loud BANG. Niki rushes over. 
 
 NIKI
 Oh Gott. ANTONIO! Are you alright? 
@@ -86,7 +86,7 @@ Ow.  Yeah, I'm alright. Nothing broken.  Was just braced the wrong way - expecte
 NIKI
 You complete Gehirnverweigerer!
 
-Niki lightly slaps Antonio on the back of the head. 
+Niki slaps Antonio on the back of the head. 
 
 ANTONIO
 First time I've been called a Guggenheimer...
@@ -114,7 +114,7 @@ What were you doing up there anyway?
 JAIME
 Oh, Antonio here is our Ultimate Spelunker. 
 
-> TITLE: Antonio Garcia - Ultimate Spelunker < 
+> Antonio Garcia - Ultimate Spelunker <
 
 CAT
 Spelunking?
@@ -140,7 +140,7 @@ CAT
 Right, but why...
 
 NIKI
-Oh, there seems to be some sort of black box hanging from the rafters. We think it might be important, so we're trying to get it.  Since we couldn't find a ladder, Antonio had the bright idea of climbing the rigging. 
+Oh, there seems to be some sort of black box hanging from the rafters. We think it might be important, so we're trying to get it.  Since we couldn't find a ladder, Antonio had the dumme idee (DU-mah EE-dee) of climbing the rigging. 
 
 ANTONIO
 It's still a good idea. We tried knocking it over, it wouldn't budge. And unless Cat here is the Ultimate Gym Climber or something, I'm the best qualified.
@@ -176,7 +176,7 @@ CAT
 What universal truth?
 
 NIKI
-People are assholes, and everyone's broken. These two things are related. 
+People are assholes, and the world is broken. These two things are related. 
 
 JAIME
 So, where are the others?
@@ -185,7 +185,7 @@ ANTONIO
 Maddie's at the shooting range, don't know why. Dharma's looking through the infirmary for some aspirin for all of us, Barry and Jonda went to the botanical gardens, and Wayne's in the storage room, trying to see if there's anything we can use to call for help. 
 
 NIKI
-Oh! Idea!  Jaime, how much do you weigh? 
+Oh! Idee! (EE-dee)  Jaime, how much do you weigh? 
 
 JAIME
 About 80 kilos. Why?
@@ -227,7 +227,7 @@ Now that I was on my own, it became a lot scarier.  Where are we?  Who brought u
 --- NEXT ---
 
 [CHOICE SET 1: "Where Should We Check?"]
-  | "I'll check the shooting range"      =>   <c1_a1_s4a_shooting_range.fountain>
+  | "I'll check the shooting range"      =>   c1_a1_s4a_shooting_range.fountain
   | "I'll check the botanical gardents"  => 
-  | "I'll check the infirmary"           =>
+  | "I'll check the infirmary"           =>   c1_a1_s4b_infirmary.fountain_
   | "I'll check the storage room"        =>
