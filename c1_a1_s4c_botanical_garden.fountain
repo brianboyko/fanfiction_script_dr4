@@ -1,0 +1,146 @@
+INT. BOTANICAL GARDEN - DAY
+
+As Catherine enters the hall, two students, JONDA and BARRY are in the botanical garden.  BARRY seems to be lost in thought, stariung into space while JONDA is carefully studying the plants. 
+
+CAT
+Hello.  I was told I could find someone here? 
+
+JONDA
+Oh, hey! Over here.  Barry, you going to say hello to the new girl? 
+
+BARRY
+Just... give me a moment... 
+
+JONDA
+Alright... 
+
+Jonda shrugs. 
+
+JONDA
+Can't say I know him that well, but he seems an alright bloke.  I'm Jonda Bailey, that's Barry over there. You recovering alright? 
+
+CAT
+Yeah, the headache's still pounding a bit though. 
+
+JONDA
+Defo. I hadn't had a headache this bad since me mate Jeff done a piss up while his parents were gone bush, bit of a larrikin, Jeff. Anyway, we went round and got the Hills hoist and we were playing goon of fortune until we were all pretty much legless. Jeff was a bit of a root rat, so he might have done it on purpose thinking I'd let him pash. 
+
+CAT
+...
+
+BARRY
+It's not just you. I can't understand her either. Honestly, for the first five minutes, I thought I was having a stroke. 
+
+JONDA
+I take it back. Barry's not an alright bloke.  
+
+BARRY
+Pah! So, anyway, who might you be? 
+
+CAT
+Oh.  I'm Catherine Wilson.  Everyone calls me Cat.  
+
+BARRY
+Barukh Eliezer, but no one can pronounce that, not even me until I've had at least two cups of coffee, so everyone calls me Barry. 
+
+JONDA
+Oh, and just to get it out of your way: Hope's Peak student? 
+
+CAT
+Ultimate Bartender. 
+
+JONDA
+Fair Dinkum? You are now my new best mate. 
+
+CAT 
+Yeah, well, it's not like there's a bar in this school.
+
+BARRY
+Well, I don't know. Most schools don't have forcefields, shooting ranges, or hostages. *cough* So anyway, myself, I'm the so-called Ultimate Sculptor. 
+
+> BARUKH ELIEZER - ULTIMATE SCULPTOR <
+
+BARRY
+Honestly, though, I'm not sure I like the title. Sounds pretentious. I mean, I'm no slouch. I'm good with three-D modeling, 3-D printing, and taking a design from conception to stone, wood, plastic, whatever.  Now the old masters, *they* were ultimates.  I guess I wouldn't mind being the *penultimate* sculptor.  But this ultimate stuff is just adding pressure, and that, I don't need!  
+
+JONDA
+And I got in for Zoology. 
+
+> JONDA BAILEY - ULTIMATE ZOOLOGIST <
+
+JONDA
+Yeah, I just love being out there in the wild. I mean, it's not I don't like people, I like people heaps, but sometimes you just want to tell the world to rack off and go somewhere there's no wucka's. 
+
+CAT
+Say that again?
+
+BARRY
+Don't tempt her. She might actually do it. 
+
+JONDA
+I don't get what's so funny. From my perspective, you two are the ones with the accent.  
+
+CAT 
+I'm sure we'll all understand each other better if we get to know each other. 
+
+BARRY
+Eh, hope springs eternal. Anyway, Cat, Jonda and I were noticing something about these plants that have us a little baffled.  
+
+CAT 
+Oh, what's that?
+
+JONDA 
+These plants have obviously been taken care of by someone. But you know what I don't notice here that should be here?
+
+CAT
+What's that?
+
+JONDA 
+The smell.  Not the flowers, they smell lovely.  But in order to get blooms like this, you need to get some fertalizer in, and organic or synthetic, fertalizer stinks. 
+
+BARRY
+Which means that it's more likely that until at least two or three days ago, this place wasn't operating as a botanical garden, or that it was, and all the flowers and trees and grasses were quickly replaced.  Someone set this up, no more than say...
+
+JONDA
+Two, three days tops?
+
+BARRY 
+Seems about right.  Also, you know what else is missing? 
+
+CAT 
+Hmm... no bees?  
+
+BARRY
+Bingo! No bees, no flies, no insects of any kind.  That does not a healthy botantical garden make. So this isn't a botanical garden, per se, it's a *stage play* of someone's idea of what a botanical garden could be. 
+
+JONDA
+Mind you, they've still got a wide variety of plants here, and they do look well cared for.  
+
+BARRY 
+Bah, but the thing is, what happened to us - someone went to an awful lot of trouble to give kidnapped people a botanical garden, and they did it on purpose.  
+
+CAT 
+Weird. 
+
+BARRY 
+Yeah.  Anyway, Jonda and I were just finishing up, I think.  We're heading back to the gym. 
+
+JONDA
+Yeah, I guess we'll see you there when we all compare notes.  I don't know about you but I really do not like being cooped up. 
+
+Cat leaves the infermary and heads off: 
+
+<<Decision Tree>> 
+* "I'll check the infirmary" (if unselected)
+* "I'll check the shooting range" (if unselected)
+* "I'll check the storage room" (if unselected)
+* All areas have been checked (if all selected)
+
+--- NEXT ---
+
+[CHOICE SET 1: "Where Should We Check?"]
+  | "I'll check the infirmary"           => ca_a1_s4b_infirmary.fountain
+  | "I'll check the shooting range"      => c1_a1_s4a_shooting_range.fountain
+  | "I'll check the storage room"        =>
+  | All areas have been checked          =>
+
