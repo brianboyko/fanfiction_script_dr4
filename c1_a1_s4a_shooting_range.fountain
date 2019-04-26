@@ -153,5 +153,5 @@ Cat leaves the shooting range and heads off:
 [CHOICE SET 1: "Where Should We Check?"]
   | "I'll check the botanical gardens"   => c1_a1_s4c_botanical_gardens.fountain
   | "I'll check the infirmary"           => c1_a1_s4b_infirmary.fountain
-  | "I'll check the storage room"        =>
+  | "I'll check the storage room"        => c1_a1_s4d_storage_room.fountain
   | "I guess I'll head back to the Gym"  =>

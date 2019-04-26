@@ -141,6 +141,6 @@ Cat leaves the infermary and heads off:
 [CHOICE SET 1: "Where Should We Check?"]
   | "I'll check the botanical gardens"   =>  c1_a1_s4c_botanical_gardens.fountain
   | "I'll check the shooting range"      =>  c1_a1_s4a_shooting_range.fountain
-  | "I'll check the storage room"        =>
+  | "I'll check the storage room"        =>  c1_a1_s4d_storage_room.fountain
   | All areas have been checked          =>
 
